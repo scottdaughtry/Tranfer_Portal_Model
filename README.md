@@ -1,6 +1,6 @@
 https://scottdaughtry.shinyapps.io/FAKE_APP/_w_3550f309/
 Link To App
-username: sdaughtry
+username: sdaughtr
 password: volhoops
 
 <img width="1198" alt="Screen Shot 2024-07-17 at 9 06 25 AM" src="https://github.com/user-attachments/assets/466a876f-7e3e-401c-abb3-116163bbba48">
